@@ -1,4 +1,4 @@
 # kaldi_dev
 
-- Old version
-- Newer version moved to a private repo
+- stale legacy
+- Up-to-date version will be managed in a private repo
